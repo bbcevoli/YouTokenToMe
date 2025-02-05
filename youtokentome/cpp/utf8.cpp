@@ -4,7 +4,6 @@
 #include <string>
 #include <vector>
 #include "utils.h"
-#include <cstdint>
 
 namespace vkcom {
 
